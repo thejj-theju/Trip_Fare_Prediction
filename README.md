@@ -32,3 +32,8 @@ Users provide details like distance, duration, time-of-day, and ride attributes 
 --> here i have pickled the Random Forest Model for my prediction which gives 96% Accuracy.
 
 7. Developed a Streamlit app for user inputs and real-time fare prediction
+
+![App Screenshot](Screenshot 2025-09-28 135125.png)
+
+![App Screenshot](Screenshot 2025-09-28 135125.png)
+
