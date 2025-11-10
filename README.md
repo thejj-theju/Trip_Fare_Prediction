@@ -33,8 +33,9 @@ Users provide details like distance, duration, time-of-day, and ride attributes 
 
 7. Developed a Streamlit app for user inputs and real-time fare prediction
 
- <img width="1813" height="733" alt="Screenshot 2025-09-28 124653" src="https://github.com/user-attachments/assets/58dfab2f-3269-48ff-9f1c-7ab81482d3dc" />
-
 
 
 <img width="1919" height="835" alt="Screenshot 2025-09-28 135125" src="https://github.com/user-attachments/assets/5a9ba349-c90c-4013-b628-77b8f93012bc" />
+
+
+ <img width="1813" height="733" alt="Screenshot 2025-09-28 124653" src="https://github.com/user-attachments/assets/58dfab2f-3269-48ff-9f1c-7ab81482d3dc" />
