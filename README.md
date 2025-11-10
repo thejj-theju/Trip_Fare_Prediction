@@ -21,7 +21,8 @@ Users provide details like distance, duration, time-of-day, and ride attributes 
 
 ## 🧩 Metrics & Model Comparison
 
-| Model                | R²      | MSE      | RMSE     | MAE       |
+| Model                | R²      | MSE      | RMSE     | MAE    <img width="1813" height="733" alt="Screenshot 2025-09-28 124653" src="https://github.com/user-attachments/assets/58dfab2f-3269-48ff-9f1c-7ab81482d3dc" />
+   |
 |----------------------|---------|-----------|-----------|------------|
 | Linear Regression     | 0.9319  | 0.01507   | 0.12277   | 0.07477    |
 | Ridge Regression      | 0.9319  | 0.01507   | 0.12277   | 0.07477    |
