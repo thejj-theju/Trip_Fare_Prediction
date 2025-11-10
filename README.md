@@ -35,6 +35,8 @@ Users provide details like distance, duration, time-of-day, and ride attributes 
 
 ![App Screenshot](Screenshot 2025-09-28 135125.png)
 
-![App Screenshot](Screenshot 2025-09-28 135125.png)<img width="370" height="462" alt="Screenshot 2025-11-09 223509" src="https://github.com/user-attachments/assets/9e715d05-0f56-42f6-a4ce-773ec21c2242" />
+![App Screenshot](Screenshot 2025-09-28 135125.png)
 
 
+
+<img width="1919" height="835" alt="Screenshot 2025-09-28 135125" src="https://github.com/user-attachments/assets/5a9ba349-c90c-4013-b628-77b8f93012bc" />
